@@ -1,11 +1,9 @@
-# Arquivos do Python
+
 __pycache__/
 *.pyc
 
-# Ambiente virtual (se usar)
-venv/
 env/
 
-# Arquivos sensíveis
+
 .env
 serviceAccountKey.json
